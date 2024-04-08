@@ -20,3 +20,4 @@ model = sm.OLS(y, X).fit()
 
 # Print regression statistics
 print(model.summary())
+"GO BREWERS"
